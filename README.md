@@ -6,4 +6,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a pleasant user interface.
 
+### Assets:
+[Icons:](https://remixicon.com/)
+
 <img src="/tonkers-preview.png" alt="Preview of the Tonkers Sales Website" />
