@@ -7,6 +7,16 @@
 - Compatible with all mobile devices and with a pleasant user interface.
 
 ### Assets:
-[Icons:](https://remixicon.com/)
+- Icons: [https://remixicon.com/]
+- Fonts: [https://fonts.google.com/]
+- Other Fonts: [https://dafont.com/]
+- Images: [https://unsplash.com]
+- Swiper: [https://swiperjs.com/]
+- Mixitup: [https://www.kunkalabs.com/mixitup/]
+- ScrollReveal: [https://scrollrevealjs.org/]
+- Bem Methodology: [http://getbem.com/naming/]
+
+### View Live Website:
+Tonkers: [https://tonkers.netlify.app/]
 
 <img src="/tonkers-preview.png" alt="Preview of the Tonkers Sales Website" />
