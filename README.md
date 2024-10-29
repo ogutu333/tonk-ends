@@ -19,4 +19,6 @@
 ### View Live Website:
 Tonkers: [https://tonkers.netlify.app/]
 
+### Preview:
+
 <img src="/tonkers-preview.png" alt="Preview of the Tonkers Sales Website" />
